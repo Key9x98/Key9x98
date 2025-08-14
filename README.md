@@ -30,6 +30,39 @@ Welcome to my GitHub profile! I'm a passionate AI Engineer specializing in Natur
 - **MLOps & Deployment**: Deploy ML models with optimization techniques (ONNX, containerization)
 - **Backend Development**: Create robust APIs and database systems for AI applications
 
+### 🏆 Featured Projects
+
+#### 🤖 [RECRUITER AI AGENT](https://github.com/Key9x98/Recuiter-AI-Agent)
+*Intelligent recruitment automation system with 60% accuracy*
+- **Tech Stack**: n8n Automation, Gemini API, JavaScript, LLM Prompting
+- **Features**: Auto job posting, Facebook chatbot integration, CV screening system
+- **Impact**: Automated recruitment pipeline with intelligent CV-JD matching
+
+#### 💰 [FAMILY EXPENSES MANAGEMENT](https://github.com/Key9x98/Family-Expense-Management)
+*3-generation family expense management system*
+- **Tech Stack**: FastAPI, MongoDB, Docker, JWT, APScheduler
+- **Features**: Multi-user auth, expense categorization, budget planning, rate limiting
+- **Impact**: Scalable and secure backend serving multi-generational families
+
+#### 📄 [CHAT WITH PDFS](https://github.com/Key9x98/Chat-with-PDF)
+*Vietnamese PDF document question-answering system*
+- **Tech Stack**: LangChain, FAISS, Streamlit, Gemini API, RAG
+- **Features**: PDF text extraction, semantic search, Vietnamese language support
+- **Impact**: Intelligent document interaction with contextual answers
+
+#### 📊 [SENTIMENT ANALYSIS USING LSTM](https://github.com/Key9x98/sentiment-analysis-using-LSTM)
+*Social media sentiment analysis with LSTM*
+- **Tech Stack**: PyTorch, LSTM, NLTK, Wandb, ONNX
+- **Features**: Data augmentation, model training monitoring, ONNX optimization
+- **Impact**: Efficient sentiment classification for social media content
+
+#### 📰 [VNEXPRESS TITLE CLASSIFICATION](https://github.com/Key9x98/vnexpress-title-classification)
+*Vietnamese news title classification with 85% accuracy*
+- **Tech Stack**: TensorFlow, DistilBERT, Streamlit, Transfer Learning
+- **Features**: Web crawling, 8-category classification, multilingual BERT
+- **Impact**: Automated news categorization for Vietnamese content
+
+
 ### 🛠️ Tech Stack
 
 **Languages:**
@@ -61,38 +94,6 @@ Welcome to my GitHub profile! I'm a passionate AI Engineer specializing in Natur
 - n8n Automation Platform
 - Git version control
 - Weights & Biases (wandb)
-
-### 🏆 Featured Projects
-
-#### 🤖 [RECRUITER AI AGENT](https://github.com/Key9x98/recruiter-ai-agent)
-*Intelligent recruitment automation system with 60% accuracy*
-- **Tech Stack**: n8n Automation, Gemini API, JavaScript, LLM Prompting
-- **Features**: Auto job posting, Facebook chatbot integration, CV screening system
-- **Impact**: Automated recruitment pipeline with intelligent CV-JD matching
-
-#### 💰 [FAMILY EXPENSES MANAGEMENT](https://github.com/Key9x98/family-expenses-management)
-*3-generation family expense management system*
-- **Tech Stack**: FastAPI, MongoDB, Docker, JWT, APScheduler
-- **Features**: Multi-user auth, expense categorization, budget planning, rate limiting
-- **Impact**: Scalable and secure backend serving multi-generational families
-
-#### 📄 [CHAT WITH PDFS](https://chat-with-pdf-123.streamlit.app/)
-*Vietnamese PDF document question-answering system*
-- **Tech Stack**: LangChain, FAISS, Streamlit, Gemini API, RAG
-- **Features**: PDF text extraction, semantic search, Vietnamese language support
-- **Impact**: Intelligent document interaction with contextual answers
-
-#### 📊 [SENTIMENT ANALYSIS USING LSTM](https://github.com/Key9x98/sentiment-analysis-lstm)
-*Social media sentiment analysis with LSTM*
-- **Tech Stack**: PyTorch, LSTM, NLTK, Wandb, ONNX
-- **Features**: Data augmentation, model training monitoring, ONNX optimization
-- **Impact**: Efficient sentiment classification for social media content
-
-#### 📰 [VNEXPRESS TITLE CLASSIFICATION](https://github.com/Key9x98/vnexpress-classification)
-*Vietnamese news title classification with 85% accuracy*
-- **Tech Stack**: TensorFlow, DistilBERT, Streamlit, Transfer Learning
-- **Features**: Web crawling, 8-category classification, multilingual BERT
-- **Impact**: Automated news categorization for Vietnamese content
 
 ### 📈 Current Focus
 
