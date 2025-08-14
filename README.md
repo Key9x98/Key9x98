@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Đỗ Đức Vĩnh
+# Hi there! 👋 I'm Vĩnh
 
 ## 🤖 AI Engineer | NLP Enthusiast
 
