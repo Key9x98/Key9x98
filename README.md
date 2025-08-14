@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a passionate AI Engineer specializing in Natur
 
 ### 🏆 Featured Projects
 
-#### 🤖 [RECRUITER AI AGENT](https://github.com/Key9x98/Recuiter-AI-Agent)
+#### 🤖 [RECRUITER AI AGENT (Private project)](https://github.com/Key9x98/Recuiter-AI-Agent)
 *Intelligent recruitment automation system with 60% accuracy*
 - **Tech Stack**: n8n Automation, Gemini API, JavaScript, LLM Prompting
 - **Features**: Auto job posting, Facebook chatbot integration, CV screening system
