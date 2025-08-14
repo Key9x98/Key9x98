@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate AI Engineer specializing in Natur
 
 ### 🎓 Education
 
-**Bachelor of Data Science** - VNU Ha Noi University of Science (2021-2025)
+**Bachelor of Data Science** - Hanoi University of Science, VNU (2021-2025)
 - GPA: 2.82/4.0
 - Specialized in Machine Learning and Natural Language Processing
 
